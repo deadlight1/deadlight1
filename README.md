@@ -1,4 +1,4 @@
-# 👨‍💻 Volodymyr
+# 👨‍💻 Vladimir
 
 **`Full-stack Software Engineer`**
 
